@@ -1,0 +1,10 @@
+DNI del Dueño: 99999999
+Nombre del Dueño: Pedro
+Nombre de la Mascota: Juan
+Enfermedad de la Mascota: Rabia
+------------------------------------
+DNI del Dueño: 12312312
+Nombre del Dueño: Diego
+Nombre de la Mascota: Pichon
+Enfermedad de la Mascota: Distemper
+------------------------------------
